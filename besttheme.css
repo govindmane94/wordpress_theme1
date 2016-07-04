@@ -1,0 +1,23 @@
+html,
+body{
+	margin: 0;
+	color: #000;
+	background: #eee; 
+	font: sans-serif;
+}
+
+body{
+	padding: 20px;
+}
+.header
+{
+	margin:auto;
+	margin-top:10px;
+	padding:15px;
+	background:url('images/bluec_30p.png');
+	width:60%;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;
+	text-align:center;
+}
